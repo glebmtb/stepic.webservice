@@ -26,7 +26,7 @@
       <version>9.3.6.v20151106</version>
     </dependency>
 
-    <!--Шаблонизатор-->
+    <!--Template Web Page-->
     <dependency>
       <groupId>org.freemarker</groupId>
       <artifactId>freemarker</artifactId>
@@ -43,6 +43,13 @@
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
       <version>1.7.13</version>
+    </dependency>
+
+    <!--Testing-->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
     </dependency>
 
   </dependencies>
